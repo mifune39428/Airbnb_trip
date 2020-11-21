@@ -1,0 +1,159 @@
+.color-white {
+	color: white;
+}
+.color-black, .copy-right-text a,
+.copy-right-jp a, .footer-copy-right a,
+.most-footer a {
+	color: black;
+}
+.video-wrap {
+	margin-right: -20px;
+}
+.bg-top {
+	display: none;
+}
+h1 {
+	width: 500px;
+	font-size: 45px;
+	position: relative;
+	top: 120px;
+	left: 120px;
+}
+h2 {
+	font-size: 45px;
+}
+.top-header {
+	position: relative;
+	top: 120px;
+	left: 130px;
+}
+.watch-movie a {
+	margin-left: -15px;
+}
+.mail-form {
+	position: absolute;
+	top: 250px;
+	left: 150px;
+}
+.form-control {
+	border: none;
+	width: 500px;
+	padding: 30px 0;
+}
+.btn-mail {
+	/* テキストボックス内にボタン */
+	color: white;
+	background-color: lightblue;
+	border: none;
+	border-radius: 0.3em;
+	margin-top: 35px;
+	margin-left: -195px;
+	width: 180px;
+	height: 40px;
+}
+.btn-position {
+	position: relative;
+	top: -25px;
+	left: -330px;
+}
+.need-work img {
+	width: 100%;
+	height: 350px;
+	object-fit: cover;
+}
+.at-home-img {
+	width: 40%;
+	height: 500px;
+	object-fit: cover;
+}
+.at-home-bg {
+	width: 60%;
+	height: 500px;
+	background-color: whitesmoke;
+}
+.at-home-text {
+	position: relative;
+	top: 150px;
+	left: 100px;
+}
+.one-team-bg {
+	width: 60%;
+	height: 500px;
+	background-color: teal;
+}
+.one-team-img {
+	width: 40%;
+	height: 500px;
+	object-fit: cover;
+}
+.btn-hover-white a:hover {
+	text-decoration: underline;
+	color: white;
+}
+.btn-hover-black a:hover {
+	text-decoration: underline;
+	color: black;
+}
+.btn-hover-none a:hover {
+	text-decoration: none;
+	color: white;
+}
+.bg-green {
+	height: 300px;
+	background-color: teal;
+}
+.bg-gray {
+	height: 400px;
+	background-color: whitesmoke;
+	margin-right: -20px;
+}
+.bg-footer {
+	height: 400px;
+	background-color: ghostwhite;
+	margin-right: -20px;
+}
+.safety-text {
+	position: relative;
+	top: 20px;
+	left: 250px;
+}
+.cs-text {
+	position: relative;
+	top: 20px;
+	left: 500px;
+}
+.font-size-marta {
+	font-size: 25px;
+}
+.marta-img {
+	width: 50%;
+	height: 500px;
+	object-fit: cover;
+}
+.marta-text {
+	position: relative;
+	top: 100px;
+	left: 100px;
+}
+.marta-bg {
+	width: 50%;
+	height: 500px;
+	background-color: whitesmoke;
+}
+.font-size-h2 {
+	font-size: 45px;
+}
+.position-left{
+	position: relative;
+	left: -85px;
+}
+.copy-right-text li {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+footer {
+	background-color: ghostwhite;
+}
+footer {
+	font-size: 14px;
+}
